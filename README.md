@@ -66,7 +66,9 @@ Marketplace with a 16-operation WCF/SOAP service layer, a 5-table SQL Server sch
 ## Education
 
 **BSc in Information Technology (Computer Science & Informatics)**, University of Johannesburg (2022 – 2026)
-Certificate in Artificial Intelligence and 4IR (2024)
+Python Bootcamp certification of completion, Johannesburg Business School (2023) 
+Certificate in Artificial Intelligence and 4IR, University of Johannesburg (2024)
+
 
 ---
 
